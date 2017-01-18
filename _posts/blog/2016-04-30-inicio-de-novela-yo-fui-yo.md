@@ -16,12 +16,6 @@ Había que escribir un principio de una historia en tres horas, esto es lo que y
 
 <hr />
 
-<meta property="og:url"                content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
-<meta property="og:type"               content="article" />
-<meta property="og:title"              content="When Great Minds Don’t Think Alike" />
-<meta property="og:description"        content="How much does culture influence creative thinking?" />
-<meta property="og:image"              content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
-
 <h3>Yo fui yo</h3>
 <span style="font-weight: 400;">Había una vez, no, perdón, me corrijo, déjenme volver a empezar.</span>
 
