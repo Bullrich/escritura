@@ -6,6 +6,7 @@ post_date: 2016-05-03 00:38:30
 post_excerpt: ""
 layout: post
 published: true
+share: true
 image:
   feature:
 ---

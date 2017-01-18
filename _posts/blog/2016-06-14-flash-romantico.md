@@ -6,6 +6,7 @@ post_date: 2016-06-14 20:21:47
 post_excerpt: ""
 layout: post
 published: true
+share: true
 image:
   feature: Vampire-kiss.png
 

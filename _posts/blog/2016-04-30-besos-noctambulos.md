@@ -6,6 +6,7 @@ post_date: 2016-04-30 15:44:00
 post_excerpt: ""
 layout: post
 published: true
+share: true
 image:
   feature: besos_noctambulos.jpg
 ---

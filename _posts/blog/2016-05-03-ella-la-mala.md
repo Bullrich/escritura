@@ -6,6 +6,7 @@ post_date: 2016-05-03 02:00:56
 post_excerpt: ""
 layout: post
 published: true
+share: true
 image:
   feature: besos_droga.jpg
 ---

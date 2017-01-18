@@ -6,6 +6,7 @@ post_date: 2016-04-30 07:25:48
 post_excerpt: ""
 layout: post
 published: true
+share: true
 image:
   feature: yo_BN.jpg
 ---

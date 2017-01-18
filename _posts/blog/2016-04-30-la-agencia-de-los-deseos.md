@@ -6,6 +6,7 @@ post_date: 2016-04-30 16:33:43
 post_excerpt: ""
 layout: post
 published: true
+share: true
 image:
   feature: Juan_y_Ana.png
 ---

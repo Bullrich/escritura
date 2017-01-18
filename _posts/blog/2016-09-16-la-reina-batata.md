@@ -6,6 +6,7 @@ post_date: 2016-09-16 18:48:16
 post_excerpt: ""
 layout: post
 published: true
+share: true
 image:
   feature: gato-con-mono.jpg
 ---

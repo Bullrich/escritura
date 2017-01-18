@@ -6,6 +6,7 @@ post_date: 2016-08-26 22:52:53
 post_excerpt: ""
 layout: post
 published: true
+share: true
 ---
 <span style="font-weight: 400;">En la facultad tengo una materia llamada “Psicología del entretenimiento”. La materia, en resumen, es saber porque la gente se vuelve adicta a las cosas para poder aplicar elementos adictivos en los juegos que produzca en el futuro.</span>
 

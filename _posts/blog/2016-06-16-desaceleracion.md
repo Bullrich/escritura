@@ -6,6 +6,7 @@ post_date: 2016-06-16 02:31:37
 post_excerpt: ""
 layout: post
 published: true
+share: true
 image:
   feature: sasasa.png
 ---

@@ -8,6 +8,7 @@ post_date: 2017-01-09 21:22:11
 post_excerpt: ""
 layout: post
 published: true
+share: true
 mtm_data:
   - 'a:1:{i:0;a:3:{s:9:"reference";s:0:"";s:4:"type";s:0:"";s:5:"value";s:0:"";}}'
 image:
