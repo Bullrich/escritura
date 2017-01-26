@@ -17,7 +17,7 @@ La casa se encontraba rodeada de cráteres, había una gran piedra del tamaño d
 
 Pero lo que importaba es que mi rol estaba allá, ese era mi trabajo, los supervisores se iban a asegurar de que lo cumpliera, así que mejor ir por mi cuenta que recibir uno de sus cabezazos con un casco de piedra.
 
-La piel se me hundia en mi pómulos, las cuencas de mis ojos parecían pozos, exhibiendo la figura de mi larga calavera. Estaba tan flaco que si me daban una parka la gente me podria confundir con la muerte. Sería un rol más lindo que este que debo cumplir.
+La piel se me hundia en mis pómulos, las cuencas de mis ojos parecían pozos, exhibiendo la figura de mi larga calavera. Estaba tan flaco que si me daban una parka la gente me podria confundir con la muerte. Sería un rol más lindo que este que debo cumplir.
 
 Me mojé la cara, me peine un poco la cabellera gris y salí para la casa, desde afuera se veía el poco terreno que tiene la casa, pero una vez que pones un pie en ese terreno no ves nada más que la casa o kilómetros de terrenos vacíos, el efecto de inmersión que generaba era prácticamente mágico.
 
@@ -125,7 +125,7 @@ Muerto.
 
 Mate a un hombre. Robe una vida. Asesine a alguien.
 
-Sentí un asco de mis acciones, no pensaba que matar se sintiera tan desagradable.
+Sentí asco de mis acciones, no pensaba que matar se sintiera tan desagradable.
 
 Caía sobre mis brazos, quería vomitar, sentía que iba a vomitar.
 
