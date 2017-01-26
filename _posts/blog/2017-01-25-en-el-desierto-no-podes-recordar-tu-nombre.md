@@ -129,4 +129,6 @@ Sentí un asco de mis acciones, no pensaba que matar se sintiera tan desagradabl
 
 Caía sobre mis brazos, quería vomitar, sentía que iba a vomitar.
 
+*Mate un hombre en el desierto.*
+
 Entonces me desperté.
