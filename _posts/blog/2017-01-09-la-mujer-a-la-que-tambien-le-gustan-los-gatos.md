@@ -26,4 +26,4 @@ Le hable, compartí un montón de cosas con ella, todo sin encontrarnos, le hac�
 
 Una semana después salimos a una fiesta, y, cuatro horas más tarde, nos estábamos besando.
 
-En ese momento no sabía lo importante que ella se iba a volver para mi. Que iba a ser quien cambie mi mundo, y quien iba a ser la persona que mas amo ver sonreir.
+En ese momento no sabía lo importante que ella se iba a volver para mi. Que iba a ser quien cambie mi mundo, y quien iba a ser la persona que mas iba a amar ver sonreir.
