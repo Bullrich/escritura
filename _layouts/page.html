@@ -26,6 +26,10 @@
 </div><!-- /#main -->
 
 <div class="footer-wrapper">
+
+  {% if page.url == "/" %}
+  <a href="blog/" class="btn" title="blog">Mas...</a>
+  {% endif %}
   <footer role="contentinfo" class="entry-wrapper">
     {% include footer.html %}
   </footer>
