@@ -1,5 +1,4 @@
 ---
-ID: 123
 post_title: Flash Romantico
 categories: blog
 post_date: 2016-06-14 20:21:47

@@ -1,5 +1,4 @@
 ---
-ID: 83
 post_title: Ella, la mala
 categories: blog
 post_date: 2016-05-03 02:00:56

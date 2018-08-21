@@ -1,5 +1,4 @@
 ---
-ID: 199
 post_title: Decidir o matar
 categories: blog
 post_date: 2018-08-13

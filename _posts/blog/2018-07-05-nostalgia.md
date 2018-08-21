@@ -1,5 +1,4 @@
 ---
-ID: 167
 post_title: Nostalgia
 categories: blog
 post_date: 2018-07-05

@@ -1,5 +1,4 @@
 ---
-ID: 198
 post_title: Que no se vaya un día
 categories: blog
 post_date: 2018-07-24

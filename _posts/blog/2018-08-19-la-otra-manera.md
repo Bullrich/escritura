@@ -1,5 +1,4 @@
 ---
-ID: 199
 post_title: La Otra Manera
 categories: blog
 post_date: 2018-08-19

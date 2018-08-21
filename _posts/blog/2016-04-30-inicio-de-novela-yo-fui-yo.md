@@ -1,5 +1,4 @@
 ---
-ID: 72
 post_title: 'Inicio de novela &#8211; Yo fui yo'
 categories: blog
 post_date: 2016-04-30 07:23:54

@@ -1,5 +1,4 @@
 ---
-ID: 74
 post_title: La voz en su cabeza
 categories: blog
 post_date: 2017-01-21 00:00:00

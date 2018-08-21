@@ -1,5 +1,4 @@
 ---
-ID: 164
 post_title: Frio invierno
 categories: blog
 post_date: 2018-07-03

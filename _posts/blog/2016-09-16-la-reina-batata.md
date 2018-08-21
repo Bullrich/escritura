@@ -1,5 +1,4 @@
 ---
-ID: 171
 post_title: La Reina Batata
 categories: blog
 post_date: 2016-09-16 18:48:16

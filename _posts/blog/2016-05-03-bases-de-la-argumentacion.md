@@ -1,5 +1,4 @@
 ---
-ID: 94
 post_title: Bases de la argumentación
 categories: blog
 post_date: 2016-05-03 00:38:30

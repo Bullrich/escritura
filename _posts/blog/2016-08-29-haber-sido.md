@@ -1,5 +1,4 @@
 ---
-ID: 182
 post_title: Haber sido
 categories: blog
 post_date: 2016-08-29

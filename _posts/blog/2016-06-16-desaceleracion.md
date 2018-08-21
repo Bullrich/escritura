@@ -1,5 +1,4 @@
 ---
-ID: 127
 post_title: Desaceleración
 categories: blog
 post_date: 2016-06-16 02:31:37

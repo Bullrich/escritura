@@ -1,5 +1,4 @@
 ---
-ID: 74
 post_title: Autobiografia
 categories: blog
 post_date: 2016-04-30 07:25:48

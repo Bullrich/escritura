@@ -1,5 +1,4 @@
 ---
-ID: 183
 post_title: Una última sonrisa
 categories: blog
 post_date: 2016-06-28
