@@ -1,24 +1,19 @@
 {
-  "name": "so-simple-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/so-simple-theme/",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/mmistakes/so-simple-theme.git"
+  "name": "escritura",
+  "version": "1.0.0",
+  "description": "Site with my writings",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve --quiet",
+    "build": "NODE_ENV=production eleventy",
+    "write": "node scripts/generate-story.js"
   },
-  "bugs": {
-    "url": "https://github.com/mmistakes/so-simple-theme/issues"
-  },
-  "engines": {
-    "node": ">= 0.10.0"
-  },
+  "author": "Javier Bullrich <javier@bullrich.dev>",
+  "license": "ISC",
   "devDependencies": {
-    "grunt": "~1.6.1",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-jshint": "~0.6.3",
-    "grunt-contrib-uglify": "~0.2.2",
-    "grunt-contrib-watch": "~0.5.2",
-    "grunt-contrib-imagemin": "~0.2.0",
-    "grunt-svgmin": "~0.2.0"
+    "@11ty/eleventy": "^2.0.0",
+    "html-minifier": "^4.0.0",
+    "moment": "^2.29.4",
+    "openai": "^3.2.1"
   }
 }
