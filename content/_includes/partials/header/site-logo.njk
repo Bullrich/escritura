@@ -1,0 +1,6 @@
+{% if siteConfig.site.logo %}
+  <img src="{{ siteConfig.site.logo }}" width="100" height="100" alt="Site logo" />
+  <span class="title">{{ title }}</span>
+{% else %}
+  <span class="site_title">{{ title }}</span>
+{% endif %}
