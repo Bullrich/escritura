@@ -1,7 +1,0 @@
-{
-    "files.exclude": {
-        ".bundle": true,
-        ".sass-cache": true,
-        "vendor": true
-    }
-}

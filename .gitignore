@@ -1,10 +1,46 @@
-_site
-.DS_Store
-*.sublime-project
-*.sublime-workspace
-codekit-config.json
+## Project
+dist/*
+_site/*
+
+## Node.js
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+pids
+logs
+results
+npm-debug.log
 node_modules
+
+## Sass
 .sass-cache
-.jekyll-metadata
-vendor/
-.bundle/
+
+## OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+## Windows
+Thumbs.db
+thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+package-lock.json
+yarn.lock
+
+# VS Code
+.vscode/**/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
