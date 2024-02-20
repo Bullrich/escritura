@@ -1,8 +1,6 @@
 ---
 title: La voz en su cabeza
 date: 2017-01-21
-image:
-  src: /images/blog/
 tags:
   - español
 ---
